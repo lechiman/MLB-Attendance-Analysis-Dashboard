@@ -2,7 +2,8 @@
 
 An interactive web dashboard for analyzing MLB game attendance data across multiple seasons.
 
-Video Example of Dashboard
+## Video Example of Dashboard
+
 https://youtu.be/HIrT0tRCGaU
 
 ## Overview
