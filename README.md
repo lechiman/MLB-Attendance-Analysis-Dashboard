@@ -2,6 +2,9 @@
 
 An interactive web dashboard for analyzing MLB game attendance data across multiple seasons.
 
+Video Example of Dashboard
+
+
 ## Overview
 
 This project provides a comprehensive analysis tool for MLB attendance data, allowing users to explore attendance patterns, trends, and statistics through an interactive web interface.
