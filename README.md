@@ -78,6 +78,5 @@ The attendance data includes:
 
 MLB attendance records from 2000-2024, including seasonal breakdowns and team-specific statistics.
 
-## License
 
 This project is for educational and analysis purposes. 
