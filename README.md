@@ -63,12 +63,6 @@ This project provides a comprehensive analysis tool for MLB attendance data (200
 - `BUSINESS_INSIGHTS.md` - Business intelligence framework
 - `WORLD_SERIES_INSIGHTS.md` - Championship analysis (26 pages)
 
-### Results & Updates
-- `business_insights_results.json` - Complete analysis results
-- `world_series_attendance_results.json` - Championship impact data
-- `UPDATE_SUMMARY.md` - 2025 data integration details
-- `WORLD_SERIES_UPDATE_COMPLETE.md` - Championship analysis completion
-
 ## Installation
 
 1. Install required Python packages:
